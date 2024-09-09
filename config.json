@@ -1,0 +1,31 @@
+{
+    "TOKEN": "YOUR TOKEN HERE",
+    "CARDS_PATH": "photo",
+    "CARDS_DESCRIPTION": {
+        "card1": "add more cards like card2 and more"
+    },
+    "CARDS_POINTS": {
+        "card1": 100
+    },
+    "WAIT_INTERVAL": 7200,
+    "WAIT_TIME_TEXT": "Please wait {time} seconds before the next card catch.",
+    "ADD_CARD_TEXT": "You have caught a new card!",
+    "CHECK_CARD_TEXT": "Here is your card!:",
+    "NEW_CARD_USAGE_INSTRUCTION_TEXT": "Usage: /new_card <name> <description> <points>",
+    "CHOOSE_CARD_TEXT": "Select a card to display:",
+    "CARDS_RELOADED_TEXT": "Cards reloaded!!",
+    "NO_CARDS_TEXT": "You have no cards.",
+    "POINTS_MESSAGE": "You have {points} points.",
+    "TRIGGER_TEXT": {
+        "addcard": "add card, catch card, komugi, get",
+        "checkcard": "show cards, my cards, cards",
+        "account": "account, acc,"
+    },
+    "AUTHORIZED_USERS": ["1644309269", "7393500283", "6473590687", "5574493967"],
+    "PROMO_INVALID_CODE_TEXT": "Invalid or expired promo code.",
+    "PROMO_ADDED_TEXT": "Promo code '{name}' added for {time}.",
+    "PROMO_USED_TEXT": "Promo code '{name}' used. Waiting time reduced by {time} seconds.",
+    "PROMO_NOT_AUTHORIZED_TEXT": "You do not have sufficient rights!",
+    "PROMO_USAGE_INSTRUCTION_TEXT": "Usage: /promo (NAME)",
+    "PROMO_ADD_USAGE_INSTRUCTION_TEXT": "Usage: /promo_add (NAME) (DECREASE_TIME)"
+}

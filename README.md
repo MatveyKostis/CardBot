@@ -1,7 +1,7 @@
 # A my cardbot
 This my cardbot for telegram with python-telegram-bot. change config.json for what you want
 ## How to add cards?
-First you need photo in jpg, png etc
+First you need photo in jpg, png etc. throw it in photo folder
 Then you need in config write   "NAME": "DESCRIPTION"
 Also dont forget to add points! "NAME": POINTS
 
